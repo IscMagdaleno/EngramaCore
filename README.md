@@ -3,12 +3,14 @@
 
 
 
+
+
 # Engrama Core
 
-Galería de funciones y procesos para facilitar el desarrollo de software.
-Consulta la base de datos, consulta APIs, genera documentos, trabaja con JSON,
+A comprehensive library of functions and processes designed to simplify software development.
+Access databases, integrate with APIs, generate documents, and handle JSON—everything required 
+for day-to-day operations, conveniently available in a single NuGet package.
 
-todo lo que se usa día a día en un solo NuGet.
 ## Documentation
 
 Para conocer más como funciona Engrama Core y Engrama Tools, sigue nuestro canal de YouTube donde se estarán subiendo tutoriales para sacar el máximo potencial de estas herramientas.
@@ -18,22 +20,22 @@ Para conocer más como funciona Engrama Core y Engrama Tools, sigue nuestro cana
 
 ## Características
 
-- Consulta base de datos 
-- Consula de APIs
-- Envio de Emails
-- Lectura y creacion de Excles
-- Autheticaciones con JWT
-- Logger 
-- Lectura y cracion de PDFs
-- Extencioes de variable para simplicar validacione y funciones.
+- Perform database queries efficiently
+- Integrate with APIs seamlessly
+- Send emails with ease
+- Read and create Excel files effortlessly
+- Implement JWT authentication securely
+- Utilize robust logging mechanisms
+- Read and generate PDF documents
+- Use variable extensions to streamline validations and simplify functions
 
 
 ## Engrama Tools
 
 - [Engrama tools](https://engrama.azurewebsites.net)
 
-Aplicación web para sacar el máximo provecho de Engrama Core, al analizar la base de datos permite obtener el código necesario para la consulta la base de datos desde la capa de servicio hasta la capa de arquitectura, entre otras muchas ayudas.
-
+A web application built to fully leverage the capabilities of EngramaCore. By analyzing the database,
+it provides the essential code to facilitate database queries seamlessly from the service layer to the architecture layer, along with numerous additional tools and features.
 
 
 ## 🔗 Links
@@ -57,14 +59,6 @@ Aplicación web para sacar el máximo provecho de Engrama Core, al analizar la b
 -   Visual Studio 2022
 
 
-## Installation
-
-Intalar el nuget via comando.
-
-```bash
-  dotnet add package EngramaCore --version 2.3.1
-```
-De igual forma, puedes encontrarlo en el administrador de paquetes nuget.
 
 ## Authors
 
@@ -73,5 +67,7 @@ De igual forma, puedes encontrarlo en el administrador de paquetes nuget.
 
 ## Comentarios
 
-Si tiene algún comentario, comuníquese con nosotros a engramahelper@gmail.com
+For any questions or feedback, don't hesitate to reach out to us at engramahelper@gmail.com.
+
+
 
