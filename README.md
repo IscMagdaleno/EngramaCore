@@ -3,8 +3,6 @@
 
 
 
-
-
 # Engrama Core
 
 A comprehensive library of functions and processes designed to simplify software development.
@@ -13,12 +11,12 @@ for day-to-day operations, conveniently available in a single NuGet package.
 
 ## Documentation
 
-Para conocer más como funciona Engrama Core y Engrama Tools, sigue nuestro canal de YouTube donde se estarán subiendo tutoriales para sacar el máximo potencial de estas herramientas.
-
+Discover how Engrama Core and Engrama Tools work by following our YouTube channel. 
+Watch our tutorials to make the most of these powerful tools
 [Canal de Youtube](https://www.youtube.com/@EngramaDev)
 
 
-## Características
+## Characteristics
 
 - Perform database queries efficiently
 - Integrate with APIs seamlessly
@@ -50,7 +48,7 @@ it provides the essential code to facilitate database queries seamlessly from th
 
 
 
-## 🛠 Habilidades 
+## 🛠 Skills 
 
 -   C# 
 -   SQL
@@ -65,7 +63,7 @@ it provides the essential code to facilitate database queries seamlessly from th
 - [@IscMagdaleno](https://github.com/IscMagdaleno)
 
 
-## Comentarios
+## Comments
 
 For any questions or feedback, don't hesitate to reach out to us at engramahelper@gmail.com.
 
